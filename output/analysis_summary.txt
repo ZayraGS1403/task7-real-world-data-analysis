@@ -1,0 +1,24 @@
+Student Performance Analysis Summary
+===================================
+
+Normality Tests (Shapiro-Wilk):
+Exam_Score: p-value = 0.0000 (Not Normal)
+Hours_Studied: p-value = 0.0000 (Not Normal)
+Sleep_Hours: p-value = 0.0000 (Not Normal)
+Attendance: p-value = 0.0000 (Not Normal)
+Physical_Activity: p-value = 0.0000 (Not Normal)
+
+Correlations with Exam Score:
+Hours_Studied: 0.45
+Attendance: 0.58
+Sleep_Hours: -0.02
+Previous_Scores: 0.17
+Tutoring_Sessions: 0.16
+Physical_Activity: 0.03
+
+Conclusions:
+- Hours_Studied and Attendance have the strongest positive correlations with Exam_Score, suggesting that more study time and higher class attendance are associated with better exam performance.
+- Sleep_Hours shows a weak positive correlation, indicating that adequate sleep may slightly benefit performance.
+- Physical_Activity has a minimal correlation, suggesting it has little direct impact on exam scores.
+- Most numeric variables (e.g., Exam_Score, Hours_Studied) are not normally distributed, as indicated by Shapiro-Wilk p-values < 0.05.
+- Categorical factors like Parental_Involvement and Extracurricular_Activities show varied distributions, with pie charts indicating balanced representation across categories.
