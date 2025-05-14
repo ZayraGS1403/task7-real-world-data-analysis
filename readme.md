@@ -53,7 +53,6 @@ The `analyze_student_performance.py` script generates the following visualizatio
 ![Gender_pie](https://github.com/user-attachments/assets/b8561c2c-b81b-413b-95c2-6ac9f100c0c7)
 
 - **Analysis:** Pie chart showing gender distribution: 50.8% Male, 49.2% Female. Reflects a balanced sample.
-- **Good:** Nearly equal representation across genders.
 
 #### **2. Parental Involvement Distribution (`Parental_Involvement_pie.png`)**
 ![Parental_Involvement_pie](https://github.com/user-attachments/assets/8300d26c-7fe9-47a3-9cc8-8ce427a1dea8)
@@ -67,7 +66,6 @@ The `analyze_student_performance.py` script generates the following visualizatio
 
 - **Analysis:** Pie chart showing 50.5% Yes, 49.5% No. Balanced participation in extracurricular activities.
 - **Good:** Reflects realistic student engagement patterns.
-- **Bad:** Non-participants may miss out on social or developmental benefits.
 
 #### **4. Parental Education Level Distribution (`Parental_Education_Level_pie.png`)**
 ![Parental_Education_Level_pie.png](output/Parental_Education_Level_pie.png)
@@ -115,14 +113,12 @@ The `analyze_student_performance.py` script generates the following visualizatio
 
 - **Analysis:** Histogram showing weekly physical activity hours. Right-skewed (p-value < 0.05), with a mean of 3.07 hours.
 - **Good:** Reflects typical student activity levels.
-- **Bad:** Low activity for some students may indicate sedentary lifestyles.
 
 #### **11. Study Hours vs. Exam Score (`Hours_Studied_vs_Exam_Score.png`)**
 ![Hours_Studied_vs_Exam_Score](https://github.com/user-attachments/assets/1b3ed35a-1637-4498-9590-0a5df05e8ca5)
 
 - **Analysis:** Scatter plot showing a strong positive correlation (0.58). More study hours lead to higher exam scores.
 - **Good:** Clear trend supports the importance of study time.
-- **Bad:** Some outliers (e.g., low scores despite high study hours) suggest other factors at play.
 
 #### **12. Sleep Hours vs. Exam Score (`Sleep_Hours_vs_Exam_Score.png`)**
 ![Sleep_Hours_vs_Exam_Score](https://github.com/user-attachments/assets/14c33acb-4372-4a7a-b341-34b4104b791c)
