@@ -68,7 +68,8 @@ The `analyze_student_performance.py` script generates the following visualizatio
 - **Good:** Reflects realistic student engagement patterns.
 
 #### **4. Parental Education Level Distribution (`Parental_Education_Level_pie.png`)**
-![Parental_Education_Level_pie.png](output/Parental_Education_Level_pie.png)
+![Parental_Education_Level_pie](https://github.com/user-attachments/assets/05603681-a167-4e9f-9bfd-2f7326bb95b6)
+
 - **Analysis:** Pie chart showing 37.7% High School, 41.4% College, 20.9% Postgraduate. Suggests a relatively educated parent population.
 - **Good:** Diverse educational backgrounds provide context for academic support.
 - **Bad:** May not fully represent lower socioeconomic groups.
