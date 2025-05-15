@@ -81,26 +81,12 @@ The `analyze_student_performance.py` script generates the following visualizatio
 - **Good:** High access supports online learning and research.
 - **Bad:** The 9.1% without access may face academic disadvantages.
 
-#### **6. Exam Score Distribution (`Exam_Score_distribution.png`)**
-![Exam_Score_distribution](https://github.com/user-attachments/assets/96384e43-ad06-4017-ab77-65040d7bb5f7)
-
-- **Analysis:** Histogram showing exam scores. Slightly left-skewed (p-value < 0.05), with a mean of 67.24.
-- **Good:** Most students score above 60, indicating decent performance.
-- **Bad:** Wide range (58-100) suggests variability in outcomes.
-
 #### **7. Study Hours Distribution (`Hours_Studied_distribution.png`)**
 ![Hours_Studied_distribution](https://github.com/user-attachments/assets/fc369a9a-3a02-443c-b6dc-6ae439f60f4b)
 
 - **Analysis:** Histogram showing study hours per week. Right-skewed (p-value < 0.05), with a mean of 20.44 hours.
 - **Good:** Reflects realistic study patterns among students.
 - **Bad:** Some students study very little (e.g., 1 hour/week), which may skew performance analysis.
-
-#### **8. Sleep Hours Distribution (`Sleep_Hours_distribution.png`)**
-![Sleep_Hours_distribution](https://github.com/user-attachments/assets/ec4f1e91-986f-4a73-9d2f-3b7e0f63cfed)
-
-- **Analysis:** Histogram showing sleep hours per night. Approximately normal (p-value ~0.06), with a mean of 6.93 hours.
-- **Good:** Centered around 6-7 hours, aligning with health recommendations.
-- **Bad:** Some students sleep as little as 4 hours, which may affect performance.
 
 #### **9. Attendance Distribution (`Attendance_distribution.png`)**
 ![Attendance_distribution](https://github.com/user-attachments/assets/a5ef14f1-3e72-43b8-90e5-ea81bc3b02a0)
