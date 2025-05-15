@@ -37,13 +37,13 @@ The  `StudentPerformanceFactors.csv` file contains the following columns :
 
 ### Key Relationships
 
-- **Study Hours vs. Exam Score:** Strong positive correlation (0.58, calculated from dataset), indicating more study time improves academic performance.
-- **Attendance vs. Exam Score:** Strong positive correlation (0.60), showing that higher attendance is associated with better scores.
-- **Sleep Hours vs. Exam Score:** Weak positive correlation (0.18), suggesting adequate sleep slightly benefits performance.
-- **Physical Activity vs. Exam Score:** Very weak correlation (0.09), indicating minimal direct impact on academic outcomes.
-- **Parental Involvement Impact:** Students with high parental involvement (24.6%) tend to have higher median exam scores (mean ~69.5) compared to those with low involvement (mean ~66.8).
-- **Teacher Quality Impact:** Students with high teacher quality (27.6%) have higher average exam scores (mean ~68.9) than those with low quality (mean ~65.2).
-- **Extracurricular Activities:** Students participating in extracurricular activities (50.5%) have slightly higher exam scores (mean ~67.8) than non-participants (mean ~66.7), possibly due to improved time management or social support.
+- **Study Hours vs. Exam Score:** Strong positive correlation indicating more study time improves academic performance.
+- **Attendance vs. Exam Score:** Strong positive correlation  showing that higher attendance is associated with better scores.
+- **Sleep Hours vs. Exam Score:** Weak positive correlation  suggesting adequate sleep slightly benefits performance.
+- **Physical Activity vs. Exam Score:** Very weak correlation  indicating minimal direct impact on academic outcomes.
+- **Parental Involvement Impact:** Students with high parental involvement tend to have higher median exam scores (mean ~69.5) compared to those with low involvement (mean ~66.8).
+- **Teacher Quality Impact:** Students with high teacher quality have higher average exam scores (mean ~68.9) than those with low quality (mean ~65.2).
+- **Extracurricular Activities:** Students participating in extracurricular activities have slightly higher exam scores (mean ~67.8) than non-participants (mean ~66.7), possibly due to improved time management or social support.
 
 ### Data Visualization and Analysis
 
